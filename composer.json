@@ -1,5 +1,5 @@
 {
-    "name": "kirkbushell/eloquence",
+    "name": "basedonreallife/eloquence",
     "description": "Allows developers to work with Laravel 4 Eloquent models in the same fashion they'd use every other class - with camelCase methods and attributes.",
     "keywords": ["laravel", "eloquent", "camelcase", "camel", "case"],
     "authors": [
