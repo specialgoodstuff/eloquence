@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "KirkBushell\\Eloquence": "src/"
+            "BasedOnRealLife\\Eloquence": "src/"
         }
     },
     "minimum-stability": "stable"
